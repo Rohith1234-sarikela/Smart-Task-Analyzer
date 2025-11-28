@@ -1,4 +1,5 @@
-const API_BASE = "http://localhost:8000/api/tasks";
+const API_BASE = "https://smart-task-analyzer-ryka-builder-command.onrender.com/api/tasks";
+
 
 let tasks = [];
 let nextId = 1;
